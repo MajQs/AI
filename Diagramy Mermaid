@@ -1,0 +1,12 @@
+Tam, gdzie analizujesz lub debugujesz złożone przepływy informacji, użyteczne mogą się okazać diagramy Mermaid. To potężny dodatek do Markdowna, który pozwala generować diagramy z tekstu.
+
+Kiedy używać? 
+- Do diagramów sekwencji, przepływu, wykresów Gantta, diagramów klas. 
+- Do dokumentacji technicznej w plikach README.md.
+- Gdy potrzebujesz estetycznego, czytelnego diagramu, który łatwo edytować.
+
+Przykład promptu:
+
+  Przedstaw cykl życia zapytania HTTP z formularza na serwer, z zachowaniem produkcyjnych elementów aplikacji webowej (Load Balancer, Web Server, API, Baza Danych). Zastosuj format Mermaid jako diagram sekwencji.
+
+Schemat utworzony przez AI możesz wkleić do edytora online Mermaid Live (https://mermaid.live/edit) lub użyć pluginu w swoim edytorze kodu (np. Markdown Preview Mermaid dla VS Code), oznaczając snippet jako mermaid.
